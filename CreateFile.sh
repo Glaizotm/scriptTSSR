@@ -16,7 +16,7 @@ if [ ! -d $documents ];  then
     mkdir $documents
 fi
 
-echo $listeEtudiant > $repertoire/listecomplete\?.txt
+echo $listeEtudiant > $repertoireTest/listecomplete\?.txt
 mkdir $repertoireTest/ana\&luc
 mkdir $documents/seb\&lola
 
