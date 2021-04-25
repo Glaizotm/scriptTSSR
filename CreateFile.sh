@@ -19,4 +19,5 @@ fi
 echo $listeEtudiant > $repertoireTest/listecomplete\?.txt
 mkdir $repertoireTest/ana\&luc
 mkdir $documents/seb\&lola
+touch $documents/seb\&lola/\ grrrr.~old
 
