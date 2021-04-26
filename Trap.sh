@@ -1,9 +1,9 @@
 #!/bin/bash
 # Trap.sh : le piège, gentil... 
 
-
+REPERTOIRE_SCRIPT=$(cd $( dirname ${BASH_SOURCE[0]}) && pwd)
 trap "" SIGINT SIGTERM
-echo "pid is $$"
+#echo "pid is $$"
 
 
 
