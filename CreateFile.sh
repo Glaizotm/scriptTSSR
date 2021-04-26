@@ -22,3 +22,4 @@ mkdir $documents/seb\&lola
 touch $documents/seb\&lola/\ grrrr.~old
 echo "maxime" > $repertoireTest/LeProf.id
 ln $repertoireTest/LeProf.id $repertoireTest/LeProf.txt  
+    
